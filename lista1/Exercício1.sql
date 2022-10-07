@@ -1,0 +1,4 @@
+/* QUESTAO 1*/
+Select MODELO, PLACA from VEICULO 
+where MODELO LIKE '%FIAT%'
+

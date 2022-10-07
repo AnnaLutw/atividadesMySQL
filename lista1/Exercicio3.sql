@@ -1,0 +1,4 @@
+/* QUESTAO 3*/
+select * from VEICULO
+where VALOR_IPVA IS NULL
+ORDER BY PLACA
