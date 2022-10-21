@@ -1,0 +1,33 @@
+
+Select PLACA, MODELO FROM VEICULO A join PROPRIETARIO B
+ON A.COD_PROPRIETARIO = B.COD_PROPRIETARIO
+where ESTADO IN ('MG', 'RJ') 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
